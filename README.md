@@ -7,3 +7,4 @@ The MNIST dataset is a image dataset which contains different image of numbers f
 We have developed a Artificial Neural Network wholy from the scratch without using any modelling libraries. The mentioned program uses only numpy library. We are able to achieve an accuracy of 91% on the test set. Following graph shows the accuracy rate with number of epochs.
 
 ![alt_text](https://github.com/TDeepanshPandey/MNIST_Dataset_ANN/blob/master/output.png)
+.
